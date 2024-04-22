@@ -1,5 +1,7 @@
 {
   "kty": "RSA",
-  "n": "BgkqhkiG9w0BAQEF",
-  "e": "ggE"
+  "n": "ac6lefz0E-dUSc4QYjcQDxmMr4R2w-qREerRKFDWGk61zYFGO8Y_PfnkVgSxivhKDiNPoNTSlEf-AKeOq6Xz-YuXhKB-eDmj0qY7eFS3OzZVKDa5HAHlsABw4DTL_qfAHVS4mreUewDQt5Yh7zzUCbm2k_IJuo7Mxx-fqziobB_DShyKuFkDgRa2L0d4fHZKdOfOYe66iWwRQZ5tY75_ookqPqG6j5SVs8I1YEjMq67Bc0D1lhUhhgXhegVHO6pPGkTyErCTyQloJ4JVyp2q69KPklchz38biQF5H9DztQ7xmm7pJ0eyJd5lQwgc7K1SKoZD_xLzAy_XUw1RPV55eQ",
+  "e": "AQAB",
+  "alg": "RS256",
+  "use": "sig"
 }
